@@ -8,11 +8,11 @@ newElemen.appendChild(teksElemen);
 skill.appendChild(newElemen);
 
 function mDown(obj) {
-    obj.style.backgroundColor = "#1ec5e5";
+    obj.style.backgroundColor = "#eb1b00";
     obj.innerHTML = "Release Me";
   }
   
   function mUp(obj) {
-    obj.style.backgroundColor="#D94A38";
+    obj.style.backgroundColor="#eb1b00";
     obj.innerHTML="Terima Kasih";
   }
